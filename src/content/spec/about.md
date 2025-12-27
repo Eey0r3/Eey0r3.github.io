@@ -5,6 +5,7 @@
 TODO
     
 ## 競賽
+
 - 2025 CDX CTF | 決賽冠軍 | 隊名:關於那些在ais3上課但為了錢錢跑來打cdxctf那件事
 - 2025 SCIST S5 Final CTF | Rank.9 | SCIST_Eeyore
 - 2025 HackTheBox stack smash CTF | Rank.44 | Eeyore
@@ -18,18 +19,9 @@ TODO
 
 ## 經歷
 
+- TeamT5 Security Camp 2026 學員
+- AIS3 2025 學員
 - OWASP TOP 3 研習證書
 - SCIST S5 學員
 
-## 技能
-
-- Python
-- C
-- Java
-- Javascript
-- Linux
-- Docker
-- Python flask
-- CTF(Web、Reverse、Pwn)
-- Penetration testing
 
