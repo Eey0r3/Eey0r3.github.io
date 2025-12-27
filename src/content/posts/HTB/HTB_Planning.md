@@ -19,7 +19,7 @@ lang: ''
 **Machine Information:**
 As is common in real life pentests, you will start the Planning box with credentials for the following account: admin / 0D5oT70Fq13EvB5r
 
-## STEP 1. 資訊蒐集
+## STEP 1. 資訊蒐集 Recon
 
 ### 錯誤方向
 我一開始是用rustscan快速掃目標IP的port
